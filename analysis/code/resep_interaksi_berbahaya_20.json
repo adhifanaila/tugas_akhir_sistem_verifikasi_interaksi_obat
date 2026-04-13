@@ -1,0 +1,182 @@
+[
+  {
+    "nama_resep": "Resep Interaksi 1",
+    "obat": [
+      "PREDICO-5",
+      "ETARFION",
+      "FARGOXIN",
+      "RELVAR ELLIPTA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 2",
+    "obat": [
+      "TACSOGRAF",
+      "NEO ADIAR",
+      "SLINDA",
+      "NEBACETIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 3",
+    "obat": [
+      "SPIROLACTON 25",
+      "MYCOPHENOLATE MOFETIL",
+      "SIMPONI",
+      "PALBONAT 125"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 4",
+    "obat": [
+      "SANCORTMYCIN",
+      "PRO TB 2 KID",
+      "IOHEXOL",
+      "NELANDOZ"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 5",
+    "obat": [
+      "SIMULECT",
+      "XOLMETRAS 350",
+      "EMLA",
+      "CYCLOVID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 6",
+    "obat": [
+      "OXITAN",
+      "NELANDOZ",
+      "ARAVA",
+      "HUMALOG MIX25 KWIKPEN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 7",
+    "obat": [
+      "ARAVA",
+      "STELARA",
+      "TRIAMCORT",
+      "FORESPI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 8",
+    "obat": [
+      "ISOTIC LATIM",
+      "ACTILYSE",
+      "BRUKINSA",
+      "TRUXIMA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 9",
+    "obat": [
+      "SELESTIDIN 200",
+      "IOHEXOL",
+      "QUASON",
+      "OXALIPLATIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 10",
+    "obat": [
+      "EPCLUSA",
+      "LOTHARSON",
+      "EXJADE",
+      "CITAZ 100"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 11",
+    "obat": [
+      "VIBOOST VITAMIN D3 5000",
+      "LUMIQUIN",
+      "NEXA 500",
+      "MOKBIOS 500"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 12",
+    "obat": [
+      "NOREVELL",
+      "OMEZIN",
+      "HERZUMA",
+      "XALKORI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 13",
+    "obat": [
+      "DASNIB 20",
+      "SMOFKABIVEN PERIPHERAL",
+      "ELTAZON",
+      "HALODEX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 14",
+    "obat": [
+      "DUVIRAL",
+      "CYRAMZA",
+      "SLINDA",
+      "FIBRION"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 15",
+    "obat": [
+      "OFERLOD",
+      "AVAMAB",
+      "RIXABAN",
+      "HUMALOG MIX25 KWIKPEN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 16",
+    "obat": [
+      "MAVENCLAD",
+      "ANORO ELLIPTA",
+      "KLORFESON",
+      "IRBESARTAN 150"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 17",
+    "obat": [
+      "XALKORI",
+      "SONIDE 0,5",
+      "PROGRAF",
+      "REMICADE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 18",
+    "obat": [
+      "ESVAT 10",
+      "NEO ADIAR",
+      "KOLSIFAR",
+      "BARZEPIN 300"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 19",
+    "obat": [
+      "CYRAMZA",
+      "ABBOTIC 500",
+      "REXTA",
+      "POLDAN MIG"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 20",
+    "obat": [
+      "CIPROFLOXACIN",
+      "PENTASA",
+      "SIMULECT",
+      "NOVOVENT-S"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "resep": [
+    {
+      "nama_resep": "Resep Dummy 1",
+      "obat": [
+        "Ciprofloxacin 500 mg",
+        "Ibuprofen 400 mg",
+        "Paracetamol 500 mg"
+      ]
+    },
+    {
+      "nama_resep": "Resep Dummy 2",
+      "obat": [
+        "Ciprofloxacin 500 mg",
+        "Simvastatin 20 mg",
+        "Ibuprofen 400 mg",
+        "Paracetamol 500 mg"
+      ]
+    },
+    {
+      "nama_resep": "Resep Dummy 3",
+      "obat": [
+        "Panadol",
+        "Digoxin 0.125 mg",
+        "Furosemide 20 mg",
+        "Folic Acid 5 mg"
+      ]
+    }
+  ]
+}

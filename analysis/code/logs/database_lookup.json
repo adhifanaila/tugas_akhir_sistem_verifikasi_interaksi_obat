@@ -1,0 +1,11 @@
+{
+    "script": "php_database_lookup",
+    "jumlah_obat_unik": 424,
+    "jumlah_zat_aktif": 715,
+    "jumlah_kombinasi": 255255,
+    "jumlah_interaksi": 3324,
+    "zat_aktif_tidak_ditemukan": [],
+    "waktu_eksekusi": 32.323499,
+    "heap_memory_mb": 4,
+    "rss_memory_mb": 4
+}

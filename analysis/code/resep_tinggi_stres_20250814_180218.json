@@ -1,0 +1,2005 @@
+[
+  {
+    "nama_resep": "Resep Tinggi Stres 1",
+    "obat": [
+      "EFAVIRENZ",
+      "OMEZIN",
+      "CLAST",
+      "YULAREB",
+      "OPIZOLAM 0,5",
+      "SOPRALAN 30"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 2",
+    "obat": [
+      "CONVIDECIA",
+      "AMPICILLIN SODIUM/SULBACTAM SODIUM",
+      "LAPISIV",
+      "LOTYN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 3",
+    "obat": [
+      "DOGMATIL",
+      "INFLIX",
+      "LAXATAB",
+      "VILENA 10",
+      "THERAGRAN-M",
+      "MENACTRA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 4",
+    "obat": [
+      "VILENA 2,5",
+      "HIPERDEXT PLUS",
+      "ETARFION",
+      "TAMSIN SR",
+      "TIZANIDINE HYDROCHLORIDE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 5",
+    "obat": [
+      "PANTOCAIN 2 %",
+      "ARTEM",
+      "TAPCOM",
+      "KYBERNIN P 500",
+      "ALBUCID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 6",
+    "obat": [
+      "PANTOCAIN 0,5%",
+      "DYSFUNGAL",
+      "ETORIX 60",
+      "EPLERON 25",
+      "DERMATOP"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 7",
+    "obat": [
+      "ZOLMIA",
+      "FLUDIS",
+      "IMBRUVICA",
+      "GESTIN F3"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 8",
+    "obat": [
+      "NEOSTIGMINE METHYLSULFATE",
+      "OBAT SUNTIK KB I TIGA BULANAN",
+      "CLORILEX 100",
+      "POMALID 2"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 9",
+    "obat": [
+      "HYDROXYCHLOROQUINE SULFATE",
+      "ARAVA",
+      "CEFTAZIDIME PENTAHYDRATE",
+      "HYDROCORTISONE SODIUM SUCCINATE",
+      "FLUOROURACIL",
+      "VALENINA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 10",
+    "obat": [
+      "XTANDI",
+      "TRIPTAGIC",
+      "ESILGAN",
+      "RIVAROXABAN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 11",
+    "obat": [
+      "MEXON BETA",
+      "REMICADE",
+      "NELANDOZ",
+      "PERGOVERIS",
+      "IBERET FOLIC 500"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 12",
+    "obat": [
+      "PREDNOX 8",
+      "ZOLMIA",
+      "SIMPONI",
+      "ACITRAL",
+      "OTSU - MGSO4 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 13",
+    "obat": [
+      "SCANLUX 300",
+      "PICYN",
+      "CHLORAMFECORT-H",
+      "FARMAQUIN",
+      "ZOMETA",
+      "POLYSILANE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 14",
+    "obat": [
+      "MYOVIEW",
+      "BSS",
+      "PREDICO-5",
+      "NEW ENZYPLEX",
+      "GAFORIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 15",
+    "obat": [
+      "SIMULECT",
+      "FLUOMIZIN",
+      "BENUTRION VE",
+      "NEURODEX FORTE",
+      "PUMPISEL",
+      "HUMIRA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 16",
+    "obat": [
+      "OXYNORM",
+      "BRINTELLIX",
+      "ERLEADA",
+      "METALYSE",
+      "DASNIB 70"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 17",
+    "obat": [
+      "DOXEL 160",
+      "PRIFTIN",
+      "DROSPINYL",
+      "UNAMITY"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 18",
+    "obat": [
+      "PROTOCIN",
+      "CODIPRONT",
+      "SIMPONI",
+      "BRUKINSA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 19",
+    "obat": [
+      "VISIPAQUE",
+      "GENROXI",
+      "SULFADIAZINE",
+      "SMOFKABIVEN PERIPHERAL",
+      "GELOFUSINE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 20",
+    "obat": [
+      "RIXABAN",
+      "BRUKINSA",
+      "VASACON - A",
+      "PLATOGRIX",
+      "ARTESUN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 21",
+    "obat": [
+      "PREVENAR 20",
+      "UNAMITY",
+      "NEW ASTAR",
+      "PHENYTOIN SODIUM",
+      "BRINTELLIX",
+      "BUDESMA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 22",
+    "obat": [
+      "OMEPRAZOLE",
+      "ONDAVELL 4 ODT",
+      "KRYXANA",
+      "SULPEFION",
+      "VALENINA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 23",
+    "obat": [
+      "ZOLMIA",
+      "FIBRION",
+      "KOLKATRIOL",
+      "CYRAMZA",
+      "PUMPITOR"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 24",
+    "obat": [
+      "ZILOVEN",
+      "SONIDE 0,25",
+      "UNAMITY",
+      "PERMETHRIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 25",
+    "obat": [
+      "ZEPHANAL",
+      "INFLUVAC TETRA SH",
+      "IMBRUVICA",
+      "AMINOLEBAN",
+      "PRO TB 2 KID",
+      "FUKRICIN 5%"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 26",
+    "obat": [
+      "AMINOPHYLLINE",
+      "CIPROFLOXACIN",
+      "FLUDEXIN",
+      "FLUSAL 250"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 27",
+    "obat": [
+      "FRAIZERON",
+      "BENOSON",
+      "SIMPONI",
+      "VACETA",
+      "VALENINA",
+      "SANBE HEST 130"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 28",
+    "obat": [
+      "CORTIMENT",
+      "ORADEX",
+      "MAVENCLAD",
+      "GRANON",
+      "EFAVIRENZ/ LAMIVUDINE/ TENOFOVIR DISOPROXIL FUMARATE",
+      "PULAREX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 29",
+    "obat": [
+      "EFISOL-C",
+      "CERTICAN",
+      "SALTIAM",
+      "DIOMETA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 30",
+    "obat": [
+      "ESTEQUIN",
+      "TETRAXIM",
+      "VINORKAL",
+      "VORIGEN",
+      "HOMATRO 2%"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 31",
+    "obat": [
+      "CERNEVIT",
+      "SANDRONIC",
+      "HUMIRA",
+      "COSOPT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 32",
+    "obat": [
+      "VERTILON",
+      "FLUOTHANE",
+      "EFEXOR XR",
+      "VITALIPID-N ADULT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 33",
+    "obat": [
+      "PACLITAXEL",
+      "DASNIB 20",
+      "MEIXAM",
+      "PHENOL GLYCEROL",
+      "INFLIX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 34",
+    "obat": [
+      "OTSU - D10, 1/5 NS",
+      "KARY UNI",
+      "TETRAXIM",
+      "PEHACAIN",
+      "SEVOFLURANE BAXTER"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 35",
+    "obat": [
+      "EYBELIS",
+      "KETOMED",
+      "L-LAX",
+      "VALENINA",
+      "DIQUAS",
+      "EVERONAT 10"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 36",
+    "obat": [
+      "MIGRATOP",
+      "VOSERA",
+      "CENDRID",
+      "SCABICID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 37",
+    "obat": [
+      "ISOTIC LATIM",
+      "ICOBAL",
+      "PREVENAR 20",
+      "XOLMETRAS 350",
+      "PEHACAIN",
+      "UPERIO"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 38",
+    "obat": [
+      "CETROTIDE",
+      "TREMFYA",
+      "NOVONATE 8.4%",
+      "AMGEVITA",
+      "LOKEV",
+      "MEPROSON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 39",
+    "obat": [
+      "LIXIANA",
+      "UNAMITY",
+      "ABRYSVO",
+      "PROXONA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 40",
+    "obat": [
+      "PAXLOVID",
+      "FUZIDE",
+      "GRANOCYTE 34",
+      "CYRAMZA",
+      "HUMIRA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 41",
+    "obat": [
+      "MAVENCLAD",
+      "GENISONE 10",
+      "CYCLOPHOSPHAMIDE MONOHYDRATE",
+      "FUKRICIN 5%",
+      "ZONEGRAN",
+      "TERLIPIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 42",
+    "obat": [
+      "BIOCOMBIN 5000",
+      "MIRZAP",
+      "PROCAINE BENZYLPENICILLIN",
+      "HAEMOCTIN 1000",
+      "CHRONOPROST",
+      "DESFERAL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 43",
+    "obat": [
+      "RELVAR ELLIPTA",
+      "MAVENCLAD",
+      "ERPHATRIM",
+      "PATIZRA",
+      "UPERIO",
+      "ZOLLOCID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 44",
+    "obat": [
+      "CIPROMID 500",
+      "RINVASK",
+      "ROCULAX",
+      "OTOZAMBON",
+      "TERREL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 45",
+    "obat": [
+      "LONIDE",
+      "LEVOBEN",
+      "PRILOS",
+      "DISFLATYL",
+      "SHAROX 750"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 46",
+    "obat": [
+      "DELTYBA",
+      "MEROPENEM TRIHYDRATE",
+      "PRIMACAINE 1:100.000",
+      "EFEXOR XR"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 47",
+    "obat": [
+      "GRANOCYTE 34",
+      "PALOXI",
+      "BORRAGINOL-S",
+      "XOLMETRAS 300"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 48",
+    "obat": [
+      "MOXAM",
+      "XELODA",
+      "PELASCAP",
+      "ARAVA",
+      "PAMORELIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 49",
+    "obat": [
+      "HEXAXIM",
+      "REMICADE",
+      "ANORO ELLIPTA",
+      "BORTEZOMIB"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 50",
+    "obat": [
+      "DACOGEN",
+      "ELOXATIN",
+      "ANVOMER B6",
+      "REMICADE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 51",
+    "obat": [
+      "DELIONIX",
+      "SIZORIL 25",
+      "TYZOX",
+      "CAPECITABINE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 52",
+    "obat": [
+      "SKYCELLFLU QUADRIVALENT NH",
+      "DANDRUFIN",
+      "GLIQUIDONE",
+      "HUMALOG MIX25 KWIKPEN",
+      "XALKORI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 53",
+    "obat": [
+      "MOFEN 400",
+      "BFLUID",
+      "CARVILOL 25",
+      "LORLAK",
+      "VISIPAQUE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 54",
+    "obat": [
+      "MENQUADFI",
+      "CEREZYME",
+      "RIFAMPICIN",
+      "NIZOGEN",
+      "PREVENAR 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 55",
+    "obat": [
+      "CO-AMOXICLAV",
+      "EXABET",
+      "THYROGEN",
+      "KABIVEN PERIPHERAL",
+      "PAN-AMIN G",
+      "MINIRIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 56",
+    "obat": [
+      "FORMENING",
+      "AMINOFUSIN PAED",
+      "NEUROBION",
+      "PAXLOVID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 57",
+    "obat": [
+      "CLODERM",
+      "FLAMERGI",
+      "LAMIVUDINE - ZIDOVUDINE",
+      "KANAMYCIN MEIJI",
+      "DOGMATIL",
+      "OFERLOD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 58",
+    "obat": [
+      "RELVAR ELLIPTA",
+      "SIMPONI",
+      "THERAGRAN-M",
+      "LEPTICA 75",
+      "NEPHROSTERIL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 59",
+    "obat": [
+      "OFEV",
+      "TRICEFIN",
+      "PROVIST 370",
+      "CYCLOPHOSPHAMIDE MONOHYDRATE",
+      "ZIPIO M",
+      "XYNTHA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 60",
+    "obat": [
+      "MENQUADFI",
+      "PROVIST 300",
+      "NIFLEC",
+      "CISPLATIN 10"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 61",
+    "obat": [
+      "HEXIOL",
+      "VASOLA",
+      "SMOFKABIVEN PERIPHERAL",
+      "GENISONE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 62",
+    "obat": [
+      "CEFTAZIDIME PENTAHYDRATE",
+      "EFLANO",
+      "DASNIB 50",
+      "RIVAROXABAN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 63",
+    "obat": [
+      "SULFASALAZINE",
+      "BIO PPD",
+      "IOMERON 400",
+      "RISPERDAL CONSTA",
+      "IOPAMIRO 300"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 64",
+    "obat": [
+      "SCANDENE",
+      "ERLEADA",
+      "XYNTHA",
+      "RUVASTIN 20",
+      "LYCIPRON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 65",
+    "obat": [
+      "FOSTIMON",
+      "ERLEADA",
+      "PREVENAR 20",
+      "GENOTROPIN GOQUICK",
+      "ONDAVELL 8",
+      "HEXAXIM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 66",
+    "obat": [
+      "KENACORT",
+      "SPORACID",
+      "ENERZAIR BREEZHALER",
+      "ENBREL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 67",
+    "obat": [
+      "RENOGUARD",
+      "PREVENAR 20",
+      "FG TROCHES MEIJI",
+      "PUMPISEL",
+      "KRYXANA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 68",
+    "obat": [
+      "PREVENAR 20",
+      "SALOFALK 500",
+      "FUNGICID",
+      "MICROLAX",
+      "PROGRAF XL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 69",
+    "obat": [
+      "CEFOTIAM HCL",
+      "CERVIDIL",
+      "PROGRAF XL",
+      "DOCETAXEL",
+      "CEFTAZIDIME",
+      "IODIXANOL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 70",
+    "obat": [
+      "EFEXOR XR",
+      "FLUSAL 250",
+      "HUMALOG MIX50 KWIKPEN",
+      "NEBACETIN",
+      "FOROTIC"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 71",
+    "obat": [
+      "SCANDENE PLUS",
+      "AMINOLEBAN",
+      "CLAVAMOX 500",
+      "AVONZA",
+      "REXTA",
+      "ARGIPRESSIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 72",
+    "obat": [
+      "ALCO PLUS DMP",
+      "KANDISTATIN",
+      "ERLADERM",
+      "AMPICILLIN SODIUM/SULBACTAM SODIUM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 73",
+    "obat": [
+      "CERTICAN",
+      "TERASTARCH",
+      "CRYPTAL",
+      "IBERET FOLIC 500"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 74",
+    "obat": [
+      "FARIDEXON FORTE",
+      "INLIVE®",
+      "FLOXA",
+      "VIVENA-9"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 75",
+    "obat": [
+      "SIMPONI",
+      "AVESCO 10",
+      "CYCLOVID",
+      "MEPTIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 76",
+    "obat": [
+      "THIAMYCIN",
+      "FLOXA",
+      "NOVAGYL",
+      "INFERTREAT",
+      "TRIFACORT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 77",
+    "obat": [
+      "DELTYBA",
+      "TB RIF",
+      "RECO PLUS",
+      "KRYXANA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 78",
+    "obat": [
+      "OMEPRAZOLE",
+      "EBATID",
+      "CLANEKSI",
+      "NETILMICIN SULFATE",
+      "FIBRION",
+      "COBAZIM 3000"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 79",
+    "obat": [
+      "VOCINTI",
+      "XOLMETRAS 350",
+      "I-HEP SOBOVIR",
+      "EVERONAT 10"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 80",
+    "obat": [
+      "PETHIDINA",
+      "ZAVICEFTA",
+      "OXYTOCIN",
+      "MERONESCO",
+      "BENOSON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 81",
+    "obat": [
+      "OMEPRAZOLE SODIUM",
+      "REBIF",
+      "LAMIVUDINE - ZIDOVUDINE",
+      "LIDONEST 1 : 80.000"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 82",
+    "obat": [
+      "PERTAM",
+      "XYBAT",
+      "DOGMATIL FORTE",
+      "ETARFION",
+      "ENTYVIO",
+      "FEROTAM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 83",
+    "obat": [
+      "GLISEND EXPECTORANT",
+      "DRM",
+      "PEDIALYTE",
+      "BASALOG ONE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 84",
+    "obat": [
+      "SULBACILLIN 1.5 G FOR INJECTION",
+      "CATAFLAM D",
+      "PICYN",
+      "LANSOPRAZOLE SODIUM",
+      "COMTUSI PILEK DAN ALERGI",
+      "CYRAMZA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 85",
+    "obat": [
+      "OMEZIN",
+      "BORRAGINOL-S",
+      "DETRUSITOL",
+      "CEREZYME",
+      "CLIDIAZ"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 86",
+    "obat": [
+      "SANAZOL",
+      "PREVENAR 20",
+      "PREVENAR 20",
+      "SIMPRAZOL 40",
+      "TENSOR 160",
+      "TERASTARCH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 87",
+    "obat": [
+      "DASNIB 50",
+      "EBATID",
+      "BOOST D 5000",
+      "NOGAZE",
+      "REPATHA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 88",
+    "obat": [
+      "CEFOTAXIME",
+      "OFERLOD",
+      "PRANZA",
+      "NOXIRES",
+      "PRIMET",
+      "FUNGORAL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 89",
+    "obat": [
+      "PERGOVERIS",
+      "FUKRICIN 5%",
+      "SCANLUX 370",
+      "LIPOSIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 90",
+    "obat": [
+      "SOLFION",
+      "ARAVA",
+      "ETARFION",
+      "VITALIPID-N ADULT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 91",
+    "obat": [
+      "VERNACEL",
+      "KRYXANA",
+      "MENADIOL DIACETATE",
+      "OXOFERIN",
+      "LOVEQUIN",
+      "DASNIB 140"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 92",
+    "obat": [
+      "DEFERIPRONE",
+      "NEO GYNOXA",
+      "ENBREL",
+      "FURAMIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 93",
+    "obat": [
+      "PRO TB 3 KID",
+      "XALKORI",
+      "CETROTIDE",
+      "EFAVIRENZ/ LAMIVUDINE/ TENOFOVIR DISOPROXIL FUMARATE",
+      "SONAMIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 94",
+    "obat": [
+      "SANBE HEST 130",
+      "IOPAMIRO 370",
+      "GENISONE 10",
+      "ACNOPAIN 60",
+      "NIFEDIPINE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 95",
+    "obat": [
+      "SPECTRON",
+      "SULBENICILLIN SODIUM",
+      "INLYTA",
+      "HEXAXIM",
+      "TERAZOSIN HCL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 96",
+    "obat": [
+      "VITAZYM PLUS",
+      "CATAFLAM D",
+      "PANTOTUM",
+      "RESPITUSS",
+      "SANTAGESIK"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 97",
+    "obat": [
+      "PROSOGAN FD",
+      "GENOTROPIN GOQUICK",
+      "ROSUVASTATIN CALCIUM",
+      "LYNESTRENOL",
+      "SODIUM BICARBONATE",
+      "NEURODEX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 98",
+    "obat": [
+      "TAMSULOSIN HYDROCHLORIDE",
+      "SALOFALK 500",
+      "CHLORAMFECORT",
+      "METHOTREXATE",
+      "RIVAROXABAN",
+      "ARIMED"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 99",
+    "obat": [
+      "MIACALCIC",
+      "GLICRON",
+      "REMICADE",
+      "PALBONAT 125",
+      "HYSTOLAN",
+      "MYHEP"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 100",
+    "obat": [
+      "CEDOCARD RETARD",
+      "GLYCERYL TRINITRATE",
+      "DEHIFENIN ANTITUSIF",
+      "ALBOTHYL",
+      "ARAVA",
+      "ERPHAMAZOL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 101",
+    "obat": [
+      "AMPICILLIN SODIUM/SULBACTAM SODIUM",
+      "MAVENCLAD",
+      "CO-AMOXICLAV",
+      "KANAMYCIN CAPSULES \"MEIJI\"",
+      "CYCOZAM 100",
+      "CLANEKSI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 102",
+    "obat": [
+      "ALEGYSAL",
+      "IOHEXOL",
+      "NEW ASTAR",
+      "ROHTO V-EXTRA",
+      "TOBRAMYCIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 103",
+    "obat": [
+      "VAXIGRIP TETRA NH",
+      "MUPICOR",
+      "UPERIO",
+      "LYLIAN",
+      "LUVOX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 104",
+    "obat": [
+      "DEFLAMAT 100 CR",
+      "AERONIDE",
+      "DACOGEN",
+      "TETRAXIM",
+      "DYSFUNGAL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 105",
+    "obat": [
+      "CYCLOVID",
+      "TYZOX",
+      "FRAIZERON",
+      "MIRABION"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 106",
+    "obat": [
+      "UTERLAX",
+      "GLIQUIDONE",
+      "MENHYCIA",
+      "HUMALOG MIX50 KWIKPEN",
+      "CEREZYME",
+      "SODIUM BICARBONATE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 107",
+    "obat": [
+      "ALUNBRIG",
+      "TAZIMUT 0,5",
+      "JINARC",
+      "VINCRISTINE SULFATE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 108",
+    "obat": [
+      "LEFRINA",
+      "FORMENING",
+      "VAXIGRIP TETRA SH",
+      "OMEPRAZOLE SODIUM MONOHYDRATE",
+      "ETAFLOX",
+      "BARZEPIN 300"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 109",
+    "obat": [
+      "PROVIST 300",
+      "CERTICAN",
+      "AMPICILLIN SODIUM/SULBACTAM SODIUM",
+      "LUTERON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 110",
+    "obat": [
+      "ONDAVELL 4",
+      "COMTUSI (RASA STRAWBERRY)",
+      "XALKORI",
+      "GIOTRIF"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 111",
+    "obat": [
+      "INFUCAP - NS",
+      "FRIMANIA 200",
+      "PAN-AMIN G",
+      "VERORAB",
+      "COBAZIM 1000",
+      "CATAFLAM D"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 112",
+    "obat": [
+      "INDOP 200",
+      "ARAVA",
+      "NOGREN",
+      "PROVIST 370"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 113",
+    "obat": [
+      "MENACTRA",
+      "TAPCOM",
+      "CEFORIM",
+      "LUPRED",
+      "TARIVID",
+      "PREVENAR 13"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 114",
+    "obat": [
+      "PREVENAR 13",
+      "XEPAZYM",
+      "INFLUVAC TETRA NH",
+      "SULCOLON",
+      "ETAGEMYCETIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 115",
+    "obat": [
+      "PROCEFA",
+      "HUFAGESIC",
+      "HELARS",
+      "ERYSANBE 500",
+      "COPAXONE",
+      "AMITEN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 116",
+    "obat": [
+      "POMALID 2",
+      "TRIOFUSIN 500",
+      "LYLIAN",
+      "JARDIANCE",
+      "TAZOCIN",
+      "ARAVA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 117",
+    "obat": [
+      "BERLOSID",
+      "PHENOBARBITAL",
+      "EVERONAT 10",
+      "LONSURF 15 MG / 6.14 MG"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 118",
+    "obat": [
+      "ENOXRIN 6000",
+      "NIMOX",
+      "PIL KB I KOMBINASI",
+      "MIRZAP",
+      "PROLEPSI 600"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 119",
+    "obat": [
+      "COMBANTRIN",
+      "FRD",
+      "TACSOGRAF",
+      "ARAVA",
+      "TRACTOCILE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 120",
+    "obat": [
+      "EFFIENT",
+      "RESPIREX",
+      "ETARFION",
+      "CISFONKO",
+      "POLYGRAN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 121",
+    "obat": [
+      "CYTOMIB",
+      "XYNTHA",
+      "CELEBREX",
+      "REXULTI",
+      "CORTISONE ACETATE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 122",
+    "obat": [
+      "GEMHOPE",
+      "CLARISCAN",
+      "PROZAC",
+      "FREORLA",
+      "METHOTREXATE",
+      "RENAPAR"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 123",
+    "obat": [
+      "ZYVOX",
+      "TETRACAINE HCL",
+      "ONDAVELL 8",
+      "MYCO-Z"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 124",
+    "obat": [
+      "FORMENING",
+      "BRUKINSA",
+      "PHARMACLAV",
+      "PUYER OBAT SAKIT KEPALA PMH",
+      "CARLEPONE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 125",
+    "obat": [
+      "BLOPRESS PLUS 16",
+      "EVERONAT 10",
+      "CATAFLAM D",
+      "VIVENA-9"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 126",
+    "obat": [
+      "RENOSTERIL",
+      "PRAXBIND",
+      "EFAVIRENZ",
+      "VOLDIAMER B6",
+      "TACSOGRAF",
+      "VESICARE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 127",
+    "obat": [
+      "ARAVA",
+      "LONSURF 15 MG / 6.14 MG",
+      "VOSAMA",
+      "ISONIAZID",
+      "INDEXON",
+      "MIXALGIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 128",
+    "obat": [
+      "HUMALOG MIX50 KWIKPEN",
+      "TAPCOM",
+      "LEXACORTON",
+      "ELIGARD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 129",
+    "obat": [
+      "ERLONAT",
+      "ERYSANBE",
+      "TREMFYA",
+      "XATRAL XL",
+      "XTANDI",
+      "UNAMITY"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 130",
+    "obat": [
+      "ETARFION",
+      "COPELLOR",
+      "LETYBO",
+      "MEPROVENT",
+      "BERIPLAST P COMBI-SET 1 ML",
+      "UNAMITY"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 131",
+    "obat": [
+      "ENBREL",
+      "CLONIDINE HIDROCHLORIDE",
+      "EVERONAT 10",
+      "THERACIM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 132",
+    "obat": [
+      "FARMADRAL 10",
+      "YULAREB",
+      "ECRON 10",
+      "CLARITHROMYCIN",
+      "HEXAXIM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 133",
+    "obat": [
+      "MAGASIDA",
+      "HICHOLFEN 300",
+      "LUBRICEN",
+      "CHOLESTAT",
+      "AMITRIPTYLINE HYDROCHLORIDE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 134",
+    "obat": [
+      "YULAREB",
+      "OFEV",
+      "MAXILAN",
+      "COPELLOR",
+      "ETARFION"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 135",
+    "obat": [
+      "FUNGICID",
+      "VOPRAM",
+      "NEUROBION 5000",
+      "FEROTAM",
+      "ENFEROX 250"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 136",
+    "obat": [
+      "METOJECT",
+      "ABILIFY MAINTENA",
+      "ARAVA",
+      "ETADEX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 137",
+    "obat": [
+      "DILTRA",
+      "PAPAVERINE HYDROCHLORIDE",
+      "LINOVEN",
+      "DEFERIPRONE",
+      "SIMPONI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 138",
+    "obat": [
+      "VISION BLU EXTRA",
+      "IMOCARD SR",
+      "PREDICO-5",
+      "MAVENCLAD",
+      "HOLIMICETINE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 139",
+    "obat": [
+      "PRODEXON",
+      "UNAMITY",
+      "KALMETHOLONE",
+      "MENHYCIA",
+      "FLUDARA",
+      "NGENLA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 140",
+    "obat": [
+      "DIPRIVAN",
+      "AKTORALIN",
+      "CLINIMIX N9G15E",
+      "NEW ASTAR"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 141",
+    "obat": [
+      "GCFLU QUADRIVALENT NH",
+      "FODISIS",
+      "BRUKINSA",
+      "XATRAL XL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 142",
+    "obat": [
+      "CIPROMID 500",
+      "CYMBALTA",
+      "VIATRIN",
+      "GENISONE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 143",
+    "obat": [
+      "ALCO PLUS",
+      "NEOSANMAG",
+      "ADACEL",
+      "ARAVA",
+      "CISPLATIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 144",
+    "obat": [
+      "IMBRUVICA",
+      "MAGALAT",
+      "MAGASIDA",
+      "DEFIRON",
+      "LOPARTA 100/25",
+      "ENBREL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 145",
+    "obat": [
+      "GLUCOVANCE",
+      "LAKTAFIT",
+      "DEXAMETHASONE",
+      "MAVENCLAD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 146",
+    "obat": [
+      "ADACEL",
+      "BERIPLAST P COMBI-SET",
+      "SYDNACORT",
+      "BEVAMET",
+      "FLUDIS",
+      "ARAVA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 147",
+    "obat": [
+      "DIFLUCAN",
+      "MEDICLEAR",
+      "MST CONTINUS",
+      "BUPION SPINAL HEAVY",
+      "PENCILAS",
+      "SANCORTMYCIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 148",
+    "obat": [
+      "FLEET ENEMA",
+      "GELAFUSAL",
+      "ERYMED PLUS",
+      "PREVENAR 13",
+      "DASNIB 140",
+      "RINVASK"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 149",
+    "obat": [
+      "BERIPLAST P COMBI-SET 1 ML",
+      "KALFOXIM",
+      "OMEZIN",
+      "PANSIPTIN 100",
+      "XALKORI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 150",
+    "obat": [
+      "VILENA 20",
+      "OTOZAMBON",
+      "DOPAMINE HYDROCHLORIDE",
+      "NESP",
+      "CLIAD",
+      "INFLUVAC TETRA SH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 151",
+    "obat": [
+      "DOMESONE",
+      "LAKTAFIT",
+      "BECLOV",
+      "EVERONAT 10",
+      "BERIPLAST P COMBI-SET 1 ML"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 152",
+    "obat": [
+      "MORFINA",
+      "EQINON FORTE",
+      "SCANISTIN",
+      "CLAST",
+      "EXELFOS",
+      "SPIOLTO RESPIMAT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 153",
+    "obat": [
+      "LONSURF 15 MG / 6.14 MG",
+      "L-LAX",
+      "NIFURAL",
+      "MAVENCLAD",
+      "HEPA-MERZ"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 154",
+    "obat": [
+      "METHYLPREDNISOLONE SODIUM SUCCINATE",
+      "UNAMITY",
+      "CELESTAR",
+      "COLFIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 155",
+    "obat": [
+      "ERVID 5000",
+      "REXULTI",
+      "ACTREL",
+      "VALENINA",
+      "TEZA",
+      "SERNADE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 156",
+    "obat": [
+      "UNAMITY",
+      "BRINTELLIX",
+      "XPOVIO",
+      "MENQUADFI",
+      "NESFOL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 157",
+    "obat": [
+      "PROVULA",
+      "THYROGEN",
+      "BUDESONIDE",
+      "T-BONE KAEF",
+      "UNAMITY",
+      "D-ARTEPP DISPERSIBLE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 158",
+    "obat": [
+      "SITAGLIPTIN PHOSPHATE MONOHYDRATE",
+      "ARTEM",
+      "SUPRAFENID",
+      "NALOXONE HYDROCHLORIDE",
+      "EVERONAT 5",
+      "L-LAX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 159",
+    "obat": [
+      "HYDROCORTISONE",
+      "ARAVA",
+      "HELARS",
+      "VACETA",
+      "TENSIRA 150"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 160",
+    "obat": [
+      "OMNIPAQUE",
+      "NEBACETIN",
+      "REGROU",
+      "SURVANTA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 161",
+    "obat": [
+      "VEDRIN TR",
+      "CORRCE-CP",
+      "VALENINA",
+      "BERIPLAST P COMBI-SET",
+      "OSELTAMIVIR PHOSPHATE",
+      "DIGOXIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 162",
+    "obat": [
+      "TETRACYCLINE HCL",
+      "VISIPAQUE",
+      "MAVENCLAD",
+      "MOFEN",
+      "FARMACROL FORTE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 163",
+    "obat": [
+      "CELENOX",
+      "LITRAMED",
+      "VASACON - A",
+      "MANTINO",
+      "ADONA (AC-17)",
+      "EVERONAT 10"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 164",
+    "obat": [
+      "PYRANTEL PAMOATE",
+      "ZONEGRAN",
+      "METALYSE",
+      "PARATUSIN PE",
+      "NOMESIS"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 165",
+    "obat": [
+      "CEDOCARD",
+      "LAZAFIN",
+      "PREVENAR 20",
+      "PROVIST 300",
+      "SCANDENE PLUS"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 166",
+    "obat": [
+      "DOGMATIL FORTE",
+      "PRIFTIN",
+      "YULAREB",
+      "VALENINA",
+      "THERAGRAN-M",
+      "ARCALION"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 167",
+    "obat": [
+      "PATIZRA",
+      "VITAQUIN 5%",
+      "PIROCAM",
+      "ALUNBRIG",
+      "DASNIB 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 168",
+    "obat": [
+      "HYPOFIL",
+      "SOLUVIT N",
+      "PREVENAR 13",
+      "DIETHYLCARBAMAZINE CITRATE",
+      "ZOLYSAN 0,5",
+      "DIFLUCAN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 169",
+    "obat": [
+      "PYSOLAN",
+      "UROMESAN",
+      "INFLUVAC TETRA SH",
+      "TOBRO",
+      "DIPTRAS 370"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 170",
+    "obat": [
+      "CYTOFLAVIN",
+      "ERBITUX",
+      "VAXIGRIP TETRA SH",
+      "SOLIQUA",
+      "PETHIDINA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 171",
+    "obat": [
+      "BENUTRION VE",
+      "KAMYFET",
+      "ENFEROX 500",
+      "LANADEXON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 172",
+    "obat": [
+      "TENSIDOX-2",
+      "FERRIPROX",
+      "EXTRANEAL",
+      "ENBREL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 173",
+    "obat": [
+      "MOKBIOS 500",
+      "PREVENAR 20",
+      "VASACON - A",
+      "INNOVAIR NEXTHALER",
+      "ENBREL",
+      "DASNIB 80"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 174",
+    "obat": [
+      "EPIRUBICIN HYDROCHLORIDE",
+      "AKYNZEO",
+      "CALCIUM FOLINATE",
+      "FREORLA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 175",
+    "obat": [
+      "AMINOFUSIN HEPAR",
+      "MONECTO 20",
+      "VAXIGRIP TETRA NH",
+      "AMIPAREN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 176",
+    "obat": [
+      "ASKAMEX",
+      "LUVOX",
+      "CERINI",
+      "RENAPAR",
+      "UNAMITY",
+      "POMALID 3"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 177",
+    "obat": [
+      "VITALIPID-N ADULT",
+      "GESTIN F3",
+      "ERPHACYP",
+      "CALESCO",
+      "BRALIN",
+      "PREVENAR 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 178",
+    "obat": [
+      "STAMARIL PASTEUR",
+      "TAZOCIN",
+      "THERAGRAN-M",
+      "GRANOCYTE 34",
+      "CENDO EYE LOTION",
+      "ZONEGRAN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 179",
+    "obat": [
+      "ONDAVELL 8",
+      "EFAVIRENZ/ LAMIVUDINE/ TENOFOVIR DISOPROXIL FUMARATE",
+      "PRITAGESIC",
+      "NOSFOCIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 180",
+    "obat": [
+      "LOTYN",
+      "NINLARO 3.0 MG",
+      "CYCLOPHOSPHAMIDE MONOHYDRATE",
+      "BRAITO DRY EYES",
+      "FOSEN",
+      "FORICEF"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 181",
+    "obat": [
+      "PREVENAR 13",
+      "ENBREL",
+      "CLARISCAN",
+      "ONCASPAR"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 182",
+    "obat": [
+      "LAZAFIN",
+      "SEQUEST",
+      "EFLANO",
+      "ENFEROX 500"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 183",
+    "obat": [
+      "RUPAFIN",
+      "TEGRETOL CR",
+      "AXELTANE",
+      "KRYXANA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 184",
+    "obat": [
+      "TOBROSON",
+      "ADCETRIS",
+      "TERLIPIN",
+      "NEBACETIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 185",
+    "obat": [
+      "FLUGESIC PE",
+      "ALIMTA",
+      "PRO TB 4",
+      "ARAVA",
+      "CEPRAZ",
+      "INFLUVAC SH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 186",
+    "obat": [
+      "REMICADE",
+      "MEIXAM",
+      "PREDNISONE",
+      "RANACID FORTE",
+      "HYDROCORTISONE SODIUM SUCCINATE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 187",
+    "obat": [
+      "BACTODERM",
+      "INLIVE®",
+      "PRIFTIN",
+      "STELARA",
+      "ANBACIM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 188",
+    "obat": [
+      "CLINIMIX N9G15E",
+      "SELVIM 20",
+      "BICROLID 500",
+      "SPYROCON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 189",
+    "obat": [
+      "ORIXAL",
+      "INTRAFLUID",
+      "FARGOXIN",
+      "QDENGA",
+      "RITUXSANBE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 190",
+    "obat": [
+      "LORLAK",
+      "XTANDI",
+      "CENDO CETAPRED",
+      "OPM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 191",
+    "obat": [
+      "ARTESUN",
+      "CARLEPONE",
+      "DIGOXIN",
+      "INVEGA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 192",
+    "obat": [
+      "STELARA",
+      "MINERAL MIX",
+      "PELASTIN",
+      "UNAMITY",
+      "ALENA",
+      "GASTRICON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 193",
+    "obat": [
+      "DAUNOCIN-NPL",
+      "TYKERB",
+      "VOPICAIN 0,50 %",
+      "PANSIPTIN 50",
+      "ZYVOX",
+      "MUPIROCIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 194",
+    "obat": [
+      "GRATIZIN 5",
+      "PAXLOVID",
+      "MYCOSTATIN",
+      "OPICORT",
+      "ERFLOX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 195",
+    "obat": [
+      "XALKORI",
+      "FLUDIS",
+      "DICLOFENAC ACID",
+      "FIXACEP OD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 196",
+    "obat": [
+      "VAXIGRIP TETRA SH",
+      "TRIPLET",
+      "REXIDRON",
+      "METHYLPREDNISOLONE SODIUM SUCCINATE",
+      "AMIPAREN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 197",
+    "obat": [
+      "PREVENAR 13",
+      "DOCETAXEL TRIHYDRATE",
+      "DIUTENSI",
+      "QUANTIDEX",
+      "LITRAMED",
+      "TS ONE OD TABLET 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 198",
+    "obat": [
+      "REFUSAN",
+      "TYZOX",
+      "MEZINEX ANTITUSIF",
+      "NOSPIRINAL",
+      "NESFOL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 199",
+    "obat": [
+      "APIXABAN",
+      "AMPICILLIN SODIUM/SULBACTAM SODIUM",
+      "OCTANATE 250 IU",
+      "CYRAMZA",
+      "MEZATRIN 250"
+    ]
+  },
+  {
+    "nama_resep": "Resep Tinggi Stres 200",
+    "obat": [
+      "CO-AMOXICLAV",
+      "COTRISTEN",
+      "DIPITENZ",
+      "FOSMIDEX 1",
+      "ALENA",
+      "PHENOL GLYCEROL"
+    ]
+  }
+]

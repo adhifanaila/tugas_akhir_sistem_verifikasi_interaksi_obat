@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Detail Resep Dokter</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <div class="nav-container">
+      <div class="nav-left">
+        <a href="dokter-riwayat.html" class="profile-icon">⬅ Back</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="form-container">
+    <h1>Detail Resep Obat</h1>
+
+    <!-- Patient Information Section -->
+    <div class="patient-info-container">
+      <h2>Informasi Pasien</h2>
+      <p><strong>Tanggal Resep:</strong> 2025-04-17</p>
+      <p><strong>Nama Pasien:</strong> John Doe</p>
+      <p><strong>Usia Pasien:</strong> 45</p>
+      <p><strong>Diagnosis Pokok:</strong> Hypertension</p>
+    </div>
+
+    <!-- Prescription Details (Resep Dokter) Section -->
+    <div class="resep-container">
+      <h2>Resep Obat</h2>
+      <table class="resep-table">
+        <thead>
+          <tr>
+            <th>Nama Obat</th>
+            <th>Zat Aktif</th>
+            <th>Dosis</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Obat 1</td>
+            <td>Paracetamol</td>
+            <td>500mg</td>
+          </tr>
+          <tr>
+            <td>Obat 2</td>
+            <td>Aspirin</td>
+            <td>100mg</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Active Ingredient Interaction Table -->
+    <div class="interaction-container">
+      <h2>Interaksi Zat Aktif</h2>
+      <table class="interaction-table">
+        <thead>
+          <tr>
+            <th>Zat Aktif 1</th>
+            <th>Zat Aktif 2</th>
+            <th>Tingkatan Interaksi</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Paracetamol</td>
+            <td>Aspirin</td>
+            <td>Moderate</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Dangerous Interactions List (with medication names, not active ingredients) -->
+    <div class="dangerous-interactions">
+      <h3>Interaksi Berbahaya:</h3>
+      <ul>
+        <li>Obat 1 + Obat 2 (Moderate)</li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

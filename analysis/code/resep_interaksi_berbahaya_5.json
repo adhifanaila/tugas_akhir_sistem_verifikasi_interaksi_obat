@@ -1,0 +1,47 @@
+[
+  {
+    "nama_resep": "Resep Interaksi 1",
+    "obat": [
+      "ARAVA",
+      "DARZALEX",
+      "PROPYLTHIOURACIL",
+      "FENOLIP SUPRA - 160"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 2",
+    "obat": [
+      "TEGRETOL",
+      "MYCOPHENOLATE MOFETIL",
+      "LAPIGIM 2/500",
+      "UNAMITY"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 3",
+    "obat": [
+      "BORTECADE 3,5",
+      "MAVENCLAD",
+      "KABIZOLID",
+      "CELEBREX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 4",
+    "obat": [
+      "GENISONE",
+      "ZONEGRAN",
+      "PROGRAF",
+      "INFLIX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Interaksi 5",
+    "obat": [
+      "BIFIDO",
+      "UNAMITY",
+      "METHOTREXATE \"EBEWE\"",
+      "LICODEXON 0,75"
+    ]
+  }
+]

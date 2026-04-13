@@ -1,0 +1,758 @@
+[
+  {
+    "nama_resep": "Resep Rendah Menengah 1",
+    "obat": [
+      "MAKRODEX",
+      "BRINTELLIX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 2",
+    "obat": [
+      "SULFADIAZINE SILVER",
+      "RELVAR ELLIPTA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 3",
+    "obat": [
+      "OLIMEL N9E",
+      "CALCET 90"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 4",
+    "obat": [
+      "ARCALION",
+      "PROFED DMP",
+      "CONAL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 5",
+    "obat": [
+      "CARLEPONE",
+      "FOCYN 1",
+      "ALVEOFACT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 6",
+    "obat": [
+      "NITROKAF RETARD",
+      "LICOPEC"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 7",
+    "obat": [
+      "BESTALIN",
+      "DUMOLID",
+      "ORNISPAR"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 8",
+    "obat": [
+      "RAMICORT",
+      "CEFNOS",
+      "INTRATECT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 9",
+    "obat": [
+      "FUKRICIN 5%",
+      "FEIBA",
+      "LAPIVA 5/80"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 10",
+    "obat": [
+      "OFEV",
+      "DOXETIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 11",
+    "obat": [
+      "PRAXBIND",
+      "SANAZET"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 12",
+    "obat": [
+      "COPELLOR",
+      "PHAPIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 13",
+    "obat": [
+      "PROHYS",
+      "HYPERRAB",
+      "CYMEVENE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 14",
+    "obat": [
+      "ARAVA",
+      "PYRILEP",
+      "INFLUVAC NH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 15",
+    "obat": [
+      "BRONCHO VAXOM ADULTS",
+      "VILENA 15",
+      "CLAVAMOX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 16",
+    "obat": [
+      "ZENTEL",
+      "ROSTIN 20",
+      "ROPIVELL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 17",
+    "obat": [
+      "OCTREOVELL",
+      "IMBRUVICA",
+      "ACTILYSE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 18",
+    "obat": [
+      "DEPIGMEN",
+      "HIPERDEXT PLUS",
+      "PRIFTIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 19",
+    "obat": [
+      "VALENINA",
+      "MAVENCLAD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 20",
+    "obat": [
+      "XALIQUIS 2.5",
+      "CYRAMZA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 21",
+    "obat": [
+      "TRACETATE",
+      "JAKAVI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 22",
+    "obat": [
+      "PRAXILENE",
+      "IZBA",
+      "REFACOLD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 23",
+    "obat": [
+      "NECIBLOK",
+      "PANTOPUMP",
+      "AMIPAREN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 24",
+    "obat": [
+      "VITALIPID-N ADULT",
+      "VAXIGRIP TETRA SH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 25",
+    "obat": [
+      "AMITRIPTYLINE HCL",
+      "SCILIN N",
+      "NEVIRAPINE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 26",
+    "obat": [
+      "SIBERID 10",
+      "RUPAFIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 27",
+    "obat": [
+      "OFERLOD",
+      "HERZUMA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 28",
+    "obat": [
+      "OMZ",
+      "TEZA",
+      "SIMKETO"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 29",
+    "obat": [
+      "XERXES IV",
+      "KANAMYCIN CAPSULES \"MEIJI\"",
+      "FEROBION"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 30",
+    "obat": [
+      "MENQUADFI",
+      "INFLUVAC SH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 31",
+    "obat": [
+      "IBUPROFEN SODIUM DIHYDRATE",
+      "CLODERM",
+      "DEPO PROTHYRA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 32",
+    "obat": [
+      "CATAFLAM D",
+      "CERTICAN",
+      "BERIPLAST P COMBI-SET"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 33",
+    "obat": [
+      "EZOCON",
+      "IMMUNATE S/D"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 34",
+    "obat": [
+      "MELOXIN 7,5",
+      "EXJADE",
+      "CENDO MYDRIATIL 1%"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 35",
+    "obat": [
+      "LIDONEST 1 : 80.000",
+      "ACTILYSE",
+      "LIVAMIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 36",
+    "obat": [
+      "LEVOBEN",
+      "STAZOL",
+      "AKYNZEO"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 37",
+    "obat": [
+      "PROGRAF",
+      "VISIPAQUE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 38",
+    "obat": [
+      "NEVODIO",
+      "CYCLOPHOSPHAMIDE MONOHYDRATE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 39",
+    "obat": [
+      "INTRAFLUID",
+      "MENACTRA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 40",
+    "obat": [
+      "SUSTANON 250",
+      "AHEP"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 41",
+    "obat": [
+      "COVOVAX",
+      "TRIMBOW",
+      "FOSEN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 42",
+    "obat": [
+      "UNAMITY",
+      "DEXTAFEN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 43",
+    "obat": [
+      "FALCOFEN",
+      "LUVOX",
+      "VAXIGRIP TETRA SH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 44",
+    "obat": [
+      "PIO - LN 30",
+      "PENCILAS"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 45",
+    "obat": [
+      "PREVENAR 13",
+      "VEBAC",
+      "BESTALIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 46",
+    "obat": [
+      "OMBERZOL",
+      "LIDOCAINE COMPOSITUM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 47",
+    "obat": [
+      "LEVOSIF",
+      "GOXO"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 48",
+    "obat": [
+      "LANSOPRAZOLE",
+      "REMITCH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 49",
+    "obat": [
+      "DASNIB 100",
+      "MAVENCLAD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 50",
+    "obat": [
+      "IBERET FOLIC 500",
+      "AHEP",
+      "MYFORTIC"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 51",
+    "obat": [
+      "TAFLOTAN",
+      "ANORO ELLIPTA",
+      "INFLUVAC TETRA SH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 52",
+    "obat": [
+      "DOPAMINE HYDROCHLORIDE",
+      "PRITAGESIC",
+      "CELENOX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 53",
+    "obat": [
+      "FIBRION",
+      "ENFEROX 500",
+      "OROXIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 54",
+    "obat": [
+      "MOVIX-15",
+      "PROGRAF"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 55",
+    "obat": [
+      "ARIPIPRAZOLE",
+      "DIPTRAS 300",
+      "MEROFEN 1"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 56",
+    "obat": [
+      "TETRAXIM",
+      "PREVENAR 20",
+      "CYRAMZA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 57",
+    "obat": [
+      "PAXUS",
+      "FERRIPROX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 58",
+    "obat": [
+      "THIAMINE HYDROCHLORIDE/PYRIDOXINE HYDROCHLORIDE/CYANOCOBALAMIN",
+      "COVOVAX",
+      "RYTMONORM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 59",
+    "obat": [
+      "INFLIX",
+      "TRIPLET"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 60",
+    "obat": [
+      "SANDOSTATIN LAR",
+      "IMATINIB MESILATE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 61",
+    "obat": [
+      "LIPRIL 5",
+      "ARTEM",
+      "XTANDI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 62",
+    "obat": [
+      "ZENSODERM",
+      "ROJUSNA",
+      "BUFACETINE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 63",
+    "obat": [
+      "SITAGLIPTIN PHOSPHATE MONOHYDRATE",
+      "QDENGA",
+      "OXCARBAZEPINE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 64",
+    "obat": [
+      "UPERIO",
+      "PRIFTIN",
+      "ANDALAN FE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 65",
+    "obat": [
+      "MAAGMETA PLUS",
+      "ENERZAIR BREEZHALER"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 66",
+    "obat": [
+      "VEMLIDY",
+      "LAMIROS 100",
+      "BFLUID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 67",
+    "obat": [
+      "LAMIVUDINE - ZIDOVUDINE",
+      "REBIF",
+      "CEDOCARD RETARD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 68",
+    "obat": [
+      "VAXIGRIP TETRA SH",
+      "METALYSE",
+      "PROVE VIT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 69",
+    "obat": [
+      "MEYLON 84-BP",
+      "HEPAMED"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 70",
+    "obat": [
+      "PRITALINC 500",
+      "DEPAKOTE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 71",
+    "obat": [
+      "ANTIMO ANAK (RASA JERUK)",
+      "NEXURIN",
+      "UNISIA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 72",
+    "obat": [
+      "REFAQUIN",
+      "SOLIQUA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 73",
+    "obat": [
+      "ANDALAN",
+      "TRIOCID",
+      "GLUCOPHAGE XR"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 74",
+    "obat": [
+      "PATIZRA",
+      "SANDOSTATIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 75",
+    "obat": [
+      "ABBOTIC XL",
+      "XALKORI",
+      "KENACORT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 76",
+    "obat": [
+      "MEDIXON",
+      "NEO ULTRAXON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 77",
+    "obat": [
+      "YULAREB",
+      "LAPROTON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 78",
+    "obat": [
+      "HIVITD3 5000",
+      "PEXED",
+      "FOSRENOL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 79",
+    "obat": [
+      "XPOVIO",
+      "BERIPLAST P COMBI-SET",
+      "PREVENAR 13"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 80",
+    "obat": [
+      "FORMENING",
+      "SIMPONI",
+      "BUDENOFALK"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 81",
+    "obat": [
+      "VACETA",
+      "ZAVICEFTA",
+      "DOLONES"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 82",
+    "obat": [
+      "IBERET FOLIC 500",
+      "AMINOFUSIN HEPAR",
+      "RUPAFIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 83",
+    "obat": [
+      "PREVENAR 13",
+      "ENBREL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 84",
+    "obat": [
+      "HEPAVIR",
+      "NIOTINEX FORTE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 85",
+    "obat": [
+      "IOPAMIRO 370",
+      "LAZAFIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 86",
+    "obat": [
+      "VERTIKAF",
+      "PREDICO-1",
+      "CIPROFLOXACIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 87",
+    "obat": [
+      "OBH TROPICA PLUS RASA MENTHOL",
+      "ZAVICEFTA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 88",
+    "obat": [
+      "COLERGIS",
+      "CIPROMID 500",
+      "ANDALAN FE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 89",
+    "obat": [
+      "PRIMAQUINE PHOSPHATE",
+      "MECLAM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 90",
+    "obat": [
+      "DIGEST",
+      "ARGIPRESSIN",
+      "KONIDIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 91",
+    "obat": [
+      "RYZODEG",
+      "RELVAR ELLIPTA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 92",
+    "obat": [
+      "PROFED DMP",
+      "PRIMAQUINE PHOSPHATE",
+      "PRAXILENE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 93",
+    "obat": [
+      "INFLIX",
+      "THROMBOPHOB"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 94",
+    "obat": [
+      "OFERLOD",
+      "DETRUSITOL",
+      "KABIZOLID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 95",
+    "obat": [
+      "MIRADRYL",
+      "ELOXATIN",
+      "THROMBOREDUCTIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 96",
+    "obat": [
+      "IOMERON 400",
+      "NEO-K",
+      "NAIRET"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 97",
+    "obat": [
+      "PEDIALON 2.5%",
+      "XTANDI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 98",
+    "obat": [
+      "CILOSTAZOL",
+      "LOZAP",
+      "DONEPEZIL HYDROCHLORIDE MONOHYDRATE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 99",
+    "obat": [
+      "ABBOTIC",
+      "VYEPTI",
+      "KRYXANA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Rendah Menengah 100",
+    "obat": [
+      "TS ONE OD TABLET 25",
+      "PROGRAF XL",
+      "METACOSFAR"
+    ]
+  }
+]

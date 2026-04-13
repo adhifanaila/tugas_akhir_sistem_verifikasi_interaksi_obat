@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Detail Resep Apoteker</title>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Select2 CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+</head>
+
+<body>
+  <nav>
+    <div class="nav-container">
+      <div class="nav-left">
+        <a href="dashboard-farmasi.php" class="profile-icon">⬅ Dashboard</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="form-container">
+    <h1>Detail Resep Obat</h1>
+
+    <!-- Informasi Pasien -->
+    <div class="patient-info-container">
+      <h2>Informasi Pasien</h2>
+      <p><strong>Tanggal Resep:</strong> 2025-04-17</p>
+      <p><strong>Nama Pasien:</strong> John Doe</p>
+      <p><strong>Usia Pasien:</strong> 45</p>
+      <p><strong>Diagnosis Pokok:</strong> Hypertension</p>
+    </div>
+
+    <!-- Resep Dokter -->
+    <div class="resep-container">
+      <h2>Resep Obat</h2>
+      <table class="resep-table">
+        <thead>
+          <tr>
+            <th>Nama Obat</th>
+            <th>Zat Aktif</th>
+            <th>Dosis</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Obat 1</td>
+            <td>Paracetamol</td>
+            <td>500mg</td>
+          </tr>
+          <tr>
+            <td>Obat 2</td>
+            <td>Aspirin</td>
+            <td>100mg</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Tambah Obat Lain -->
+    <div class="add-medication-container">
+      <h2>Tambahkan Obat Lain untuk Dicek Interaksi</h2>
+      <form id="add-medication-form">
+        <div id="additional-medication-container">
+          <div class="medication-row">
+            <label>Nama Obat Lain</label>
+            <select name="obat-tambahan[]" class="select-obat-tambahan" required>
+              <option value="">Pilih Obat</option>
+              <option value="obat1">Obat 1</option>
+              <option value="obat2">Obat 2</option>
+              <option value="obat3">Obat 3</option>
+            </select>
+          </div>
+        </div>
+    
+        <div class="button-group">
+          <button type="button" id="add-row-btn">+ Tambah Baris</button>
+          <button type="submit">Cek Interaksi</button>
+        </div>
+      </form>      
+    </div>
+
+    <!-- Interaksi Berbahaya -->
+    <div class="dangerous-interactions">
+      <h3>Interaksi Berbahaya:</h3>
+      <ul id="dangerous-interactions-list">
+        <!-- Isi otomatis -->
+      </ul>
+    </div>
+  </div>
+
+  <script>
+    $(document).ready(function() {
+      // Inisialisasi select2 untuk pertama kali
+      $('.select-obat-tambahan').select2({
+        placeholder: "Pilih Obat",
+        allowClear: true
+      });
+
+      // Tambah baris baru
+      $('#add-row-btn').click(function() {
+        const newRow = `
+          <div class="medication-row">
+            <label>Nama Obat Lain</label>
+            <select name="obat-tambahan[]" class="select-obat-tambahan" required>
+              <option value="">Pilih Obat</option>
+              <option value="obat1">Obat 1</option>
+              <option value="obat2">Obat 2</option>
+              <option value="obat3">Obat 3</option>
+            </select>
+          </div>
+        `;
+        $('#additional-medication-container').append(newRow);
+
+        // Apply Select2 ke select baru
+        $('#additional-medication-container select.select-obat-tambahan').last().select2({
+          placeholder: "Pilih Obat",
+          allowClear: true
+        });
+      });
+
+      // Simulasi Cek Interaksi
+      $('#add-medication-form').submit(function(event) {
+        event.preventDefault();
+        const medications = $('select[name="obat-tambahan[]"]');
+        const interactionsList = $('#dangerous-interactions-list');
+        interactionsList.html('');
+
+        let foundInteraction = false;
+
+        medications.each(function() {
+          if ($(this).val() === "obat3") {
+            interactionsList.append(`<li>Obat 1 + ${$(this).val()} (Minor)</li>`);
+            foundInteraction = true;
+          }
+        });
+
+        if (!foundInteraction) {
+          alert('Tidak ada interaksi berbahaya.');
+        }
+      });
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,496 @@
+[
+  {
+    "nama_resep": "Resep Ringan Stres 1",
+    "obat": [
+      "MAGALAT",
+      "HUMIRA",
+      "ZYVOX",
+      "MAGTEN",
+      "DEFERIPRONE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 2",
+    "obat": [
+      "ZONEGRAN",
+      "INFUSAN RING - AS",
+      "PRIMAQUINE PHOSPHATE",
+      "DOCETAXEL",
+      "ACTONEL ONCE-A-WEEK",
+      "CYMEVENE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 3",
+    "obat": [
+      "POMALID 2",
+      "VANCOPI",
+      "SIMARC 2",
+      "GLUCOTIKA",
+      "BAVENCIO"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 4",
+    "obat": [
+      "QUININE DIHYDROCHLORIDE",
+      "CATAFLAM D",
+      "BFLUID",
+      "KALSIROX",
+      "DOXEL 160"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 5",
+    "obat": [
+      "BETAGEN-G",
+      "XALKORI",
+      "IMBRUVICA",
+      "ZIFAGRA 100",
+      "SAFETIN",
+      "PENCILAS"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 6",
+    "obat": [
+      "GENISONE",
+      "AMPICILLIN SODIUM/SULBACTAM SODIUM",
+      "PRADAXA",
+      "LANSOPRAZOLE",
+      "MAVENCLAD",
+      "PAMORELIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 7",
+    "obat": [
+      "TEGRETOL",
+      "NEPHROSTERIL",
+      "ABBOTIC 500",
+      "EUPHYLLIN RETARD MITE",
+      "SCABICID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 8",
+    "obat": [
+      "DEFERASIROX",
+      "VISIPAQUE",
+      "SITAGLIPTIN PHOSPHATE MONOHYDRATE",
+      "ALUVIA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 9",
+    "obat": [
+      "MYCOSTOP 250",
+      "INVITEC",
+      "INTRAFLUID",
+      "URDAFALK FORTE",
+      "EVERONAT 5",
+      "CLOVERTIL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 10",
+    "obat": [
+      "IOPROMIDE",
+      "CAPSINAT",
+      "PRITAGESIC",
+      "FUNGICID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 11",
+    "obat": [
+      "INSIC",
+      "BRUKINSA",
+      "INZANA",
+      "GASTRICON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 12",
+    "obat": [
+      "ANTIMO ANAK (RASA JERUK)",
+      "METHADONE HYDROCHLORIDE",
+      "VORIGEN",
+      "TRECLIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 13",
+    "obat": [
+      "AUROTEG 50",
+      "METHOTREXATE",
+      "TACSOGRAF",
+      "CARPIATON 100"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 14",
+    "obat": [
+      "ARAVA",
+      "PREVENAR 20",
+      "DEFIRON",
+      "PITAVASTATIN CALCIUM HYDRATE",
+      "NOGAZE",
+      "TRUXIMA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 15",
+    "obat": [
+      "EXJADE",
+      "TACSOGRAF",
+      "PUMPITOR",
+      "GLUCOTROL XL",
+      "RIBOMUSTIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 16",
+    "obat": [
+      "ORIXAL",
+      "T-BONE KAEF",
+      "CYFLOXAN",
+      "TIGECYCLINE",
+      "YULAREB",
+      "CEFTIZOXIME"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 17",
+    "obat": [
+      "PREDNISON",
+      "PRORENAL",
+      "PRODEFI",
+      "KALSIROX",
+      "LINCYN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 18",
+    "obat": [
+      "SCANLUX 370",
+      "TS ONE OD TABLET 25",
+      "PROHYS",
+      "SALOFALK 250"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 19",
+    "obat": [
+      "TEZA",
+      "POSOP",
+      "LABETA",
+      "VALAMIN",
+      "BINECAP",
+      "ARAVA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 20",
+    "obat": [
+      "SIRTURO",
+      "PATIZRA",
+      "DEPIGMEN",
+      "TS ONE OD TABLET 20",
+      "CRAVIT",
+      "ZADAXIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 21",
+    "obat": [
+      "SIMULECT",
+      "CARVILOL 6.25",
+      "TENOFOVIR DISOPROXIL FUMARATE",
+      "ERSOLON 4",
+      "OMEGAVEN",
+      "REMICADE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 22",
+    "obat": [
+      "BACTESYN ORAL",
+      "XTANDI",
+      "ALUNBRIG",
+      "MONECTO 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 23",
+    "obat": [
+      "BFLUID",
+      "INTERBI",
+      "CARPIATON 25",
+      "NETFAD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 24",
+    "obat": [
+      "VISANCORT",
+      "PREVENAR 13",
+      "VAXIGRIP TETRA NH",
+      "VOLOX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 25",
+    "obat": [
+      "SCANDENE PLUS",
+      "CEFNOS",
+      "STOLAX",
+      "NEO KAOLANA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 26",
+    "obat": [
+      "PREVENAR 20",
+      "HEXAXIM",
+      "PROGRAF",
+      "PRO TB 4",
+      "FASTZOL",
+      "SULCOLON"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 27",
+    "obat": [
+      "NEO ULTRAXON",
+      "MEGABAL",
+      "SCANDERMA PLUS",
+      "TARONTAL",
+      "BRINTELLIX",
+      "NEW ENZYPLEX FR"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 28",
+    "obat": [
+      "ETARFION",
+      "BERIPLAST P COMBI-SET",
+      "OMEZIN",
+      "KRYXANA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 29",
+    "obat": [
+      "ARAVA",
+      "LAPROTON",
+      "OMEVELL",
+      "NOVENTAL",
+      "ONCASPAR",
+      "CUSTODIOL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 30",
+    "obat": [
+      "SULFASALAZINE",
+      "KALSIROX",
+      "MOKBIOS 500",
+      "CENDO EYE LOTION"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 31",
+    "obat": [
+      "MENQUADFI",
+      "BRINTELLIX",
+      "GRAZEO 20",
+      "PICYN",
+      "CYRAMZA",
+      "HEXAXIM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 32",
+    "obat": [
+      "KETOSTERIL 1.5",
+      "BASALOG ONE",
+      "CYRAMZA",
+      "ACTILYSE",
+      "MEPRO-K"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 33",
+    "obat": [
+      "LAMIROS 100",
+      "ERLEADA",
+      "OPTOHIST",
+      "AMLOCOR 10 ODT",
+      "CEFEPIME"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 34",
+    "obat": [
+      "EFFIENT",
+      "EUVAX B (PEDIATRIC)",
+      "EVISTA",
+      "AMPISTERRA",
+      "IMBRUVICA",
+      "ZOLORAL - SS"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 35",
+    "obat": [
+      "VFEND",
+      "BETAGEN",
+      "LORLAK",
+      "ERYL LOW CALCIUM WITH 1.5 % DEXTROSE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 36",
+    "obat": [
+      "XPOVIO",
+      "GALVUSMET",
+      "LIVAMIN",
+      "CYCOZAM 100"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 37",
+    "obat": [
+      "LUSANOC",
+      "ADACEL",
+      "METIFER 500",
+      "VIRANZ 200",
+      "LEXZEPAM 3",
+      "EZITRO"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 38",
+    "obat": [
+      "NOKOBA",
+      "RETROFEN 100",
+      "DBL CYTARABINE INJECTION",
+      "XALKORI",
+      "ARAVA",
+      "OXALIPLATIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 39",
+    "obat": [
+      "BRIXA",
+      "DASNIB 140",
+      "MIRABION",
+      "BUFABAT",
+      "PAXLOVID",
+      "AMINOPED 6%"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 40",
+    "obat": [
+      "FARSYCOL",
+      "IOMERON 400",
+      "IMBRUVICA",
+      "ALUNBRIG"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 41",
+    "obat": [
+      "KOMPOLAX",
+      "CEFPIROME SULFATE",
+      "CEFAZOLIN SODIUM",
+      "BENZOLAC 5"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 42",
+    "obat": [
+      "DOXOTIL",
+      "LEVICA",
+      "VILENA 20",
+      "MAVENCLAD"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 43",
+    "obat": [
+      "CLAVICS",
+      "REXULTI",
+      "INSTO COOL",
+      "THROMBOPHOB"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 44",
+    "obat": [
+      "NEBACETIN",
+      "NEVIRAL",
+      "APIDRA",
+      "OMNIPAQUE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 45",
+    "obat": [
+      "EFLANO",
+      "SIMLOSIN",
+      "GRISEOFULVIN",
+      "LABETA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 46",
+    "obat": [
+      "PRODERMAL",
+      "COMBIFLEX PERI",
+      "ACTILYSE",
+      "CYRAMZA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 47",
+    "obat": [
+      "NUPROSAN",
+      "RIFAMPICIN 150MG/ISONIAZID 75M",
+      "PRENAMIA",
+      "ARAVA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 48",
+    "obat": [
+      "PROGRAF",
+      "URDEX",
+      "RHEU - TREX",
+      "BAXCEF",
+      "IOPAMIRO 370"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 49",
+    "obat": [
+      "BRINTELLIX",
+      "TAMOFEN",
+      "IMIDAPRIL HYDROCHLORIDE",
+      "ULTILOX FORTE",
+      "MODEXA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan Stres 50",
+    "obat": [
+      "INFLIX",
+      "KLORFESON",
+      "COSOPT",
+      "DIETHYLCARBAMAZINE CITRATE"
+    ]
+  }
+]

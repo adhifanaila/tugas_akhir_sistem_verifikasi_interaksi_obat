@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Registrasi Akun</title>
+  <link rel="stylesheet" href="style.css" />
+  <script>
+    function validateEmail(input) {
+      const warning = document.getElementById('email-warning');
+      const emailPattern = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
+      warning.style.display = emailPattern.test(input.value) ? 'none' : 'block';
+    }
+  </script>
+</head>
+<body>
+
+ <nav>
+    <div class="nav-container">
+      <div class="nav-left">
+        <a href="dashboard-admin.php" class="profile-icon">⬅ Kembali</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- 🔹 FORM -->
+  <div class="register-container">
+    <form action="proses-register.php" method="POST">
+      <div class="form-group">
+        <label for="role">Role</label>
+        <select name="role" id="role" required>
+          <option value="">Pilih Role</option>
+          <option value="dokter">Dokter</option>
+          <option value="apoteker">Apoteker</option>
+          <option value="admin">Admin</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="nama">Nama Lengkap</label>
+        <input type="text" id="nama" name="nama" required>
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required oninput="validateEmail(this)">
+        <span id="email-warning" class="warning-text">Email tidak valid!</span>
+      </div>
+
+      <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" required>
+      </div>
+
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required>
+      </div>
+
+      <button type="submit" class="form-button">Register</button>
+    </form>
+  </div>
+
+</body>
+</html>

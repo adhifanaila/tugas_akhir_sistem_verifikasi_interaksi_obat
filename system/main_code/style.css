@@ -1,0 +1,344 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* --------------------- Global Reset + Font --------------------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+/* --------------------- Navigation --------------------- */
+nav {
+  background: linear-gradient(90deg, #1976d2, #2196f3);
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  border-radius: 0 0 12px 12px;
+}
+
+.nav-left, .nav-center, .nav-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-left a {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-center a,
+.profile-btn,
+.logout-btn {
+  font-weight: 600;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.nav-center a {
+  color: #fff;
+}
+
+.nav-center a:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.profile-btn {
+  background-color: #4fc3f7;
+  color: #fff;
+}
+
+.profile-btn:hover {
+  background-color: #29b6f6;
+}
+
+.logout-btn {
+  background-color: #ef5350;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 10px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.logout-btn:hover {
+  background-color: #e53935;
+}
+
+/* --------------------- Main Container --------------------- */
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 20px;
+}
+
+.welcome-card {
+  background: white;
+  padding: 40px 50px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  text-align: center;
+  max-width: 800px;
+  width: 100%;
+  animation: fadeIn 0.6s ease-out;
+}
+
+.welcome-card h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2e7d32;
+  margin-bottom: 10px;
+}
+
+.welcome-card h2 .nama-dokter {
+  color: #1565c0;
+}
+
+.welcome-card p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-top: 10px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* --------------------- Responsive --------------------- */
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .main-container {
+    padding: 40px 15px;
+  }
+
+  .welcome-card {
+    padding: 30px 20px;
+  }
+
+  .welcome-card h2 {
+    font-size: 1.5rem;
+  }
+
+  .register-container h2 {
+  margin-bottom: 1.5rem; /* atau 24px, bisa disesuaikan */
+  }
+
+  .welcome-card p {
+    font-size: 1rem;
+  }
+
+  .nav-container, .form-container, .dashboard-container, .main-container {
+    padding: 1rem;
+  }
+
+  table {
+    font-size: 0.9rem;
+  }
+
+  .btn-detail {
+    padding: 5px 10px;
+  }
+
+  .nav-center {
+    justify-content: flex-start;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .nav-right {
+    width: 100%;
+    justify-content: flex-start;
+  }
+}
+
+/* --------------------- Button Styling --------------------- */
+button[type="submit"], .btn-detail, .btn-edit, .btn-delete, .profile-btn, .logout-btn {
+  font-weight: 600;
+  border-radius: 6px;
+  transition: background-color 0.3s;
+  cursor: pointer;
+  border: none;
+}
+
+button[type="submit"], .form-button, .dashboard-button, .edit-btn {
+  background-color: #1976d2;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  margin-top: 1rem;
+}
+
+button[type="submit"]:hover, .form-button:hover, .dashboard-button:hover, .edit-btn:hover {
+  background-color: #1565c0;
+}
+
+.btn-detail {
+  background-color: #ff7043;
+  color: white;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+.btn-detail:hover {
+  background-color: #e64a19;
+}
+
+.btn-edit {
+  background-color: #64b5f6;
+  color: white;
+}
+
+.btn-edit:hover {
+  background-color: #90caf9;
+}
+
+.btn-delete, .logout-btn {
+  background-color: #e53935;
+  color: white;
+  padding: 0.5rem 1rem;
+}
+
+.btn-delete:hover, .logout-btn:hover {
+  background-color: #c62828;
+}
+
+/* --------------------- Container & Card Styling --------------------- */
+.main-container, .dashboard-container, .form-container, .profile-card, .register-container, .container, .profile-box {
+  max-width: 1000px;
+  width: 100%;
+  margin: 2rem auto;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 7px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* --------------------- Table Styling --------------------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+table th, table td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+table th {
+  background-color: #1976d2;
+  color: white;
+  font-weight: bold;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f7f7f7;
+}
+
+table tbody tr:hover {
+  background-color: #e3f2fd;
+}
+
+/* --------------------- Form Styling --------------------- */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.form-group label {
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.form-group input, .form-group select, textarea {
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  width: 100%;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:focus, select:focus, textarea:focus {
+  border-color: #1976d2;
+  box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.15);
+  outline: none;
+}
+
+/* --------------------- Utilities --------------------- */
+.success-message {
+  color: #2e7d32;
+  background-color: #c8e6c9;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.error-message {
+  color: #d32f2f;
+  background-color: #ffcdd2;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.back-link {
+  display: block;
+  margin-top: 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  color: #1976d2;
+  font-weight: 600;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+/* --------------------- Footer Styling --------------------- */
+footer {
+  background-color: #1976d2;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+  border-radius: 0 0 12px 12px;
+  box-shadow: 0 -4px 10px rgba(0,0,0,0.1);
+}
+

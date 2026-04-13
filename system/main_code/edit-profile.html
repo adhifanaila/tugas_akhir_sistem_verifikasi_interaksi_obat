@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Edit Profil</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .form-container {
+      max-width: 600px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      text-align: center;
+      color: #007BFF;
+      margin-bottom: 20px;
+    }
+
+    label {
+      font-weight: bold;
+      display: block;
+      margin-top: 15px;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 1rem;
+      box-sizing: border-box;
+    }
+
+    .form-buttons {
+      margin-top: 25px;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .form-buttons button {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    .save-btn {
+      background-color: #28a745;
+      color: #fff;
+    }
+
+    .back-btn {
+      background-color: #6c757d;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div class="nav-container">
+      <div class="nav-left">
+        <a href="dashboard.html">🏠 Dashboard</a>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <div class="form-container">
+      <h2>Edit Profil Dokter</h2>
+      <form id="edit-form">
+        <label for="nama">Nama:</label>
+        <input type="text" id="nama" name="nama" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="spesialis">Spesialis:</label>
+        <input type="text" id="spesialis" name="spesialis" required>
+
+        <label for="nip">NIP/NIK:</label>
+        <input type="text" id="nip" name="nip" required>
+
+        <div class="form-buttons">
+          <button type="button" class="back-btn" onclick="window.location.href='profile.html'">Kembali</button>
+          <button type="submit" class="save-btn">Simpan</button>
+        </div>
+      </form>
+    </div>
+  </main>
+
+  <script>
+    // Simulasi ambil data user (misalnya dari sessionStorage, API, atau variabel sementara)
+    const user = {
+      nama: "Dr. Rini Astuti",
+      email: "rini@example.com",
+      spesialis: "Penyakit Dalam",
+      nip: "1987654321"
+    };
+
+    // Isi nilai default
+    document.getElementById('nama').value = user.nama;
+    document.getElementById('email').value = user.email;
+    document.getElementById('spesialis').value = user.spesialis;
+    document.getElementById('nip').value = user.nip;
+
+    // Simulasi simpan data (nantinya bisa ganti jadi fetch POST ke API)
+    document.getElementById('edit-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+
+      const updatedUser = {
+        nama: document.getElementById('nama').value,
+        email: document.getElementById('email').value,
+        spesialis: document.getElementById('spesialis').value,
+        nip: document.getElementById('nip').value
+      };
+
+      console.log("Data disimpan:", updatedUser);
+      alert("Profil berhasil diperbarui!");
+
+      // Redirect ke profil utama (simulasi)
+      window.location.href = "profil.html";
+    });
+  </script>
+
+</body>
+</html>

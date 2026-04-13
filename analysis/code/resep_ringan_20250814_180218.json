@@ -1,0 +1,375 @@
+[
+  {
+    "nama_resep": "Resep Ringan 1",
+    "obat": [
+      "FOVEPTA",
+      "LYOVEN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 2",
+    "obat": [
+      "VALAMIN",
+      "STOVERINE",
+      "YEFAMOX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 3",
+    "obat": [
+      "ECRON 10",
+      "GENCINOL-N"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 4",
+    "obat": [
+      "KETOMED SCALP SOLUTION",
+      "NOSTROK 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 5",
+    "obat": [
+      "CLANEKSI",
+      "STRONGER NEO-MINOPHAGEN C"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 6",
+    "obat": [
+      "PREVENAR 13",
+      "OLIMEL N9E",
+      "HEXADOL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 7",
+    "obat": [
+      "FARIDEXON",
+      "INFLIX"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 8",
+    "obat": [
+      "PAXLOVID",
+      "POLYSILANE",
+      "INLYTA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 9",
+    "obat": [
+      "KALVISOL BALANCED SALT SOLUTION",
+      "BOOST D 5000"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 10",
+    "obat": [
+      "ZULTROP",
+      "STRONGER NEO-MINOPHAGEN C",
+      "FAMOCID 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 11",
+    "obat": [
+      "SCANLUX 370",
+      "FUNGICID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 12",
+    "obat": [
+      "P-PRED",
+      "AHEP"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 13",
+    "obat": [
+      "AMINO L600",
+      "Y-RINS",
+      "CEFOBACTAM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 14",
+    "obat": [
+      "LIBROFED",
+      "PROGRAF",
+      "VISIPAQUE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 15",
+    "obat": [
+      "PRILOS",
+      "REBIF"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 16",
+    "obat": [
+      "MAGASIDA",
+      "BIO PPD",
+      "PREVENAR 13"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 17",
+    "obat": [
+      "MINIRIN",
+      "CYMALIUM - 5",
+      "GLUTALAN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 18",
+    "obat": [
+      "ESILGAN",
+      "PREVENAR 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 19",
+    "obat": [
+      "UNAMITY",
+      "HERZEMAB"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 20",
+    "obat": [
+      "KIFOVIR",
+      "VOMISTOP",
+      "SIMPONI"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 21",
+    "obat": [
+      "OMEPRAZOLE SODIUM",
+      "IMBRUVICA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 22",
+    "obat": [
+      "MENACTRA",
+      "ERYMED PLUS",
+      "EVERONAT 5"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 23",
+    "obat": [
+      "CALLUSOL",
+      "MEIXAM",
+      "KETOSTERIL 1.5"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 24",
+    "obat": [
+      "BONEVELL",
+      "SPORACID"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 25",
+    "obat": [
+      "LODOMER",
+      "OLIMEL N9E",
+      "KRYXANA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 26",
+    "obat": [
+      "MG-40",
+      "CMC 2%",
+      "LEFRINA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 27",
+    "obat": [
+      "ANTIMO",
+      "FIMEDIAB",
+      "MIRIWASH"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 28",
+    "obat": [
+      "ASABIUM",
+      "TAZOPIPE COMBINATION FOR IV INFUSION 2,25 (MEIJI)",
+      "OMEKUR"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 29",
+    "obat": [
+      "FIBRION",
+      "QUABACEF"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 30",
+    "obat": [
+      "PRALAX",
+      "TAXOTERE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 31",
+    "obat": [
+      "CEDOCARD RETARD",
+      "FARPRESIN",
+      "HEXAXIM"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 32",
+    "obat": [
+      "BACTIROM",
+      "CEFAZOL"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 33",
+    "obat": [
+      "AMINOSTERIL INFANT 6 %",
+      "NOKOBA",
+      "CEREZYME"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 34",
+    "obat": [
+      "FERINJECT",
+      "FG TROCHES MEIJI",
+      "SIMSARTAN 80"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 35",
+    "obat": [
+      "NIFUDIAR",
+      "PREVENAR 13"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 36",
+    "obat": [
+      "CRIPSA",
+      "TOSMA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 37",
+    "obat": [
+      "XALKORI",
+      "BILURON 50",
+      "STELARA"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 38",
+    "obat": [
+      "COPELLOR",
+      "PENCILAS",
+      "OZID I.V"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 39",
+    "obat": [
+      "PROGRAF XL",
+      "PRIFTIN"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 40",
+    "obat": [
+      "INLYTA",
+      "BICROLID 500"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 41",
+    "obat": [
+      "ZADAXIN",
+      "TS ONE OD TABLET 20"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 42",
+    "obat": [
+      "POMALID 3",
+      "DURAFER"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 43",
+    "obat": [
+      "CIPROFLOXACIN HYDROCHLORIDE",
+      "ESOMEPRAZOLE SODIUM",
+      "PREVENAR 13"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 44",
+    "obat": [
+      "ZEMINDO RASA FRAMBOISE",
+      "VITALIPID-N ADULT"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 45",
+    "obat": [
+      "ENBREL",
+      "CEFOPERAZONE SODIUM/SULBACTAM SODIUM",
+      "LAMIVUDINE - ZIDOVUDINE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 46",
+    "obat": [
+      "TIBISAN 400",
+      "EROFER 100"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 47",
+    "obat": [
+      "ZIPIO M",
+      "IOPROMIDE"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 48",
+    "obat": [
+      "TAZAM",
+      "KOMPOLAX",
+      "THERAGRAN-M"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 49",
+    "obat": [
+      "QUAFOS",
+      "SONIDE 0,25"
+    ]
+  },
+  {
+    "nama_resep": "Resep Ringan 50",
+    "obat": [
+      "SANBE AIRINS",
+      "TAFOXIL"
+    ]
+  }
+]
