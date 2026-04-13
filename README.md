@@ -1,4 +1,5 @@
-# Sistem Verifikasi Interaksi Obat Berbasis Multi-Metode Pencarian Data
+# Sistem Verifikasi Interaksi Obat Berbahaya pada Resep Dokter dengan Analisis Perbandingan Metode Pencarian Data
+# _Drug Interaction Verification System for Prescription Safety using Comparative Analysis of Data Search Methods_
 
 ## Deskripsi
 
