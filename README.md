@@ -10,7 +10,7 @@ Sistem mengintegrasikan:
 * Benchmarking performa (waktu & memori untuk setiap metode pencarian)
 ---
 
-## 🎯 Tujuan Penelitian
+## Tujuan Penelitian
 
 1. Mengembangkan sistem untuk mendeteksi interaksi obat secara otomatis dari masukan berupa resep dokter
 2. Membandingkan performa beberapa metode pencarian data
