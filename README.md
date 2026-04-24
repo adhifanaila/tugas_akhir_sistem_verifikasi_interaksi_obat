@@ -16,7 +16,6 @@ Sistem mengintegrasikan:
 1. Mengembangkan sistem untuk mendeteksi interaksi obat secara otomatis dari masukan berupa resep dokter
 2. Membandingkan performa beberapa metode pencarian data
 3. Menganalisis efisiensi waktu eksekusi dan penggunaan memori untuk setiap metode pencarian data
-4. Memberikan solusi optimal untuk implementasi sistem kesehatan digital
 ---
 
 ## Metode Pencarian data yang Dibandingkan
