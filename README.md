@@ -110,22 +110,6 @@ Parameter yang dianalisis:
 
 ---
 
-### 3. Jalankan Analisis (Opsional)
-
-Masuk ke folder:
-
-```
-analysis/code/
-```
-
-Jalankan:
-
-```bash
-python cek_interaksi.py
-```
-
----
-
 ## Hasil Penelitian
 
 Hasil benchmarking menunjukkan bahwa:
